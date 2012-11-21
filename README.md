@@ -1,4 +1,4 @@
 Blade
 =====
 
-A sharp, clean templating system.
+A sharp, clean templating system from Laravel
